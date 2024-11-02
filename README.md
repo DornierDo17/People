@@ -1,3 +1,3 @@
 # People
-Andrii 
+Andrii,
 Victor
